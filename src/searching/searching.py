@@ -18,6 +18,7 @@ def binary_search(arr, target, start, end):
 # You can implement this function either recursively 
 # or iteratively
 
+# Close but not quite working... 
 def agnostic_binary_search(arr, target):
     low = 1
     high = len(arr) - 1
